@@ -1,5 +1,5 @@
 {
-  "name": "ai-image-generator",
+  "name": "@briantruong/tea-xyz-quest",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
@@ -7,8 +7,12 @@
     "start": "node ."
   },
   "keywords": [],
-  "author": "",
+  "author": "@briantruong",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TruongQuocBao/tea-xyz-quest"
+  },
   "dependencies": {
     "discord.js": "^14.9.0",
     "djs-commander": "^0.0.45",
